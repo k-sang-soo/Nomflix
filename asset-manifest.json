@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Nomflix/static/js/main.30961c77.chunk.js",
+    "main.js.map": "/Nomflix/static/js/main.30961c77.chunk.js.map",
+    "runtime-main.js": "/Nomflix/static/js/runtime-main.e7fbdc24.js",
+    "runtime-main.js.map": "/Nomflix/static/js/runtime-main.e7fbdc24.js.map",
+    "static/js/2.a42dc91d.chunk.js": "/Nomflix/static/js/2.a42dc91d.chunk.js",
+    "static/js/2.a42dc91d.chunk.js.map": "/Nomflix/static/js/2.a42dc91d.chunk.js.map",
+    "index.html": "/Nomflix/index.html",
+    "static/js/2.a42dc91d.chunk.js.LICENSE.txt": "/Nomflix/static/js/2.a42dc91d.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/Nomflix/static/media/noPosterSmall.ea2ad102.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7fbdc24.js",
+    "static/js/2.a42dc91d.chunk.js",
+    "static/js/main.30961c77.chunk.js"
+  ]
+}
